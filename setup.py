@@ -1,5 +1,7 @@
 """
-This file is used to convert the project into a package
+The setup.py file is an essential part of packaging and distributing Python projects. 
+It is used by setuptools to define the configuration of your projects, such as its metadata,
+dependencies and more.
 """
 
 
