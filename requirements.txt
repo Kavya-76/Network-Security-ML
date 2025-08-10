@@ -5,4 +5,5 @@ matplotlib
 seaborn
 setuptools
 pymongo
--e .    # refer to setup.py file or executes it
+certifi
+# -e .    # refer to setup.py file or executes it
