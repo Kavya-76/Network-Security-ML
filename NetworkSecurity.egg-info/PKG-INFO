@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Kavya Bansal
+Author-email: kavyabansal2000@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: setuptools
+Requires-Dist: pymongo
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
