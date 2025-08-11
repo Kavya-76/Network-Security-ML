@@ -6,4 +6,5 @@ seaborn
 setuptools
 pymongo
 certifi
+scikit-learn
 # -e .    # refer to setup.py file or executes it
