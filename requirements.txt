@@ -9,4 +9,6 @@ certifi
 scikit-learn
 dill
 pyaml
+mlflow
+dagshub
 # -e .    # refer to setup.py file or executes it
