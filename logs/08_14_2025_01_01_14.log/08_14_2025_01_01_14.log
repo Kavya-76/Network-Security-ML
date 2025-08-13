@@ -1,0 +1,6 @@
+[2025-08-14 01:01:20,542] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-08-14 01:01:20,550] 107 dagshub - INFO - Accessing as Kavya-76
+[2025-08-14 01:01:21,568] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Kavya-76/Network-Security-ML "HTTP/1.1 200 OK"
+[2025-08-14 01:01:22,638] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-08-14 01:01:22,640] 107 dagshub - INFO - Initialized MLflow to track repo "Kavya-76/Network-Security-ML"
+[2025-08-14 01:01:22,641] 107 dagshub - INFO - Repository Kavya-76/Network-Security-ML initialized!
